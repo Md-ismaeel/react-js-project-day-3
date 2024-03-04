@@ -28,10 +28,10 @@ const Body = () => {
           today!
         </p>
         <div className="flex gap-6">
-          <button className=" border-solid border-2 border-white-500 p-3 rounded-md  active:bg-white  active:text-black active:translate-y-1">
+          <button className=" border-solid border-2 border-white-500 p-3 rounded-md  active:bg-green-400  active:text-black active:translate-y-1">
             LEARN MORE ABOUT US
           </button>
-          <button className=" border-solid border-2 border-white-500 p-3 rounded-md  active:bg-white  active:text-black active:translate-y-1">
+          <button className=" border-solid border-2 border-white-500 p-3 rounded-md  active:bg-green-400  active:text-black active:translate-y-1">
             CONTACT US TODAY
           </button>
         </div>
