@@ -11,8 +11,8 @@ const Footer = () => {
           Phone: 987.674.3210
         </p>
       </div>
-      <p className="w-11/12 h-12 flex justify-center items-center bg-gray-500  text-white m-auto mt-10 mb-10 text-lg">
-        <a href="#">LinkedIn Corporation 2024</a>
+      <p className="w-11/12 h-12 flex justify-center items-center bg-gray-500  text-white m-auto mt-10 mb-10 text-ms">
+        <a href="#">Copyright 2018, Website.com,All Rights Reserved</a>
       </p>
     </>
   );
